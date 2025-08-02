@@ -1,0 +1,7 @@
+# requirements.txt
+fastapi
+uvicorn
+pydantic
+playwright
+openai
+aiofiles
